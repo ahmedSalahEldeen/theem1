@@ -1,0 +1,42 @@
+/*Smart phones and Tablets*/
+
+@media (max-width:767px)
+{
+     .navbar-inverse .navbar-nav > li > a
+      {
+        padding-top:6px;
+        padding-bottom:10px;
+      }
+    .navbar-nav > li > a
+    {
+        height:29px;
+    }
+     .btn-lg, .btn-group-lg > .btn
+    {
+        margin: 20px auto; 
+    }
+}
+
+/*Small Screen*/
+@media (min-width:768px) and (max-width:991px)
+{
+  .btn-lg, .btn-group-lg > .btn
+    {
+        margin: 20px auto; 
+    }
+}
+
+/*Medium Screen*/
+@media (min-width:992px) and (max-width:1199px)
+{
+   
+    
+}
+
+/*Large Screen*/
+
+@media (min-width:1200px)
+{
+    
+    
+}

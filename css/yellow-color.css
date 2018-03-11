@@ -1,0 +1,46 @@
+/*color option*/
+/*Main color*/
+
+/****BOOTSTRAP COLOR****/
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus,
+.carousel-indicators .active,
+.option-box .color-box ul li,
+.option-box .gear-check
+{
+    background-color:#DFE417;
+}
+
+.dropdown-menu .divider
+{
+    background-color:#DFE417
+}
+
+.carousel-indicators li,
+.testimonials .carousel-indicators li.active,
+.option-box .gear-check,
+.option-box .color-box,
+.dropdown-menu
+{
+    border-radius:3px solid #DFE417 
+    
+}
+
+
+.about h2 span,
+.testimonials span,
+.footer .copy-right span,
+.footer h3,
+.navbar-brand span
+{
+    color:#DFE417
+}
+
+
+/****END BOOTSTRAP COLOR****/
+
+
